@@ -78,6 +78,13 @@ Analyzed a large-scale food delivery dataset to identify **revenue drivers, prof
 /insights    → analysis outputs  
 /dashboard   → charts  
 
+
+## 📌 Future Improvements
+
+- Add real discount dataset instead of assumptions  
+- Perform customer-level analysis  
+- Build interactive dashboard  
+
 ---
 
 ## 📢 Key Takeaway
